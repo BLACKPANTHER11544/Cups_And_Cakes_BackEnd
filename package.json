@@ -1,5 +1,5 @@
 {
-  "name": "proshop2",
+  "name": "cups_and_cakes",
   "version": "2.0.0",
   "type": "module",
   "description": "Ecommerce application built with the MERN stack",
@@ -13,7 +13,7 @@
     "data:destroy": "node backend/seeder -d",
     "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
   },
-  "author": "Brad Traversy",
+  "author": "vaibhav",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
